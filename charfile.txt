@@ -1,0 +1,4 @@
+Employee Name: Peter Sam Joes
+Department : Sales
+Destination : Manager
+Salary : 35000
